@@ -1,0 +1,161 @@
+
+body
+{
+	text-align: center;
+	font-family: arial;
+	background:   -webkit-linear-gradient(top, rgb(125,126,125) 0%,rgb(0,0,0) 95%);
+	color: white;
+}
+
+
+h1
+{
+	text-shadow: -3px 3px 2px #999; 
+}
+
+#login p
+{
+	padding:10px;
+}
+
+.input 
+{
+	width: 300px;
+	height: 30px;
+	border: 2px solid #A0A0A0; 
+	padding: 5px;
+}
+
+#button
+{
+	box-shadow: 1px 1px 1px 0px #999;
+	color: white;
+	width: 270px;
+	height: 35px;
+	margin-left: 250px;
+	background: -webkit-linear-gradient(top, rgb(125,126,125) 0%,rgb(0,0,0) 90%);
+	border-width: 2px;
+	border-radius: 6px;
+}
+
+ #logOutBtn
+ {
+ 	box-shadow: 1px 1px 1px 0px #999;
+	color: white;
+	width: 200px;
+	height: 35px;
+	margin: 0px 20px 10px 40px;
+	background: -webkit-linear-gradient(top, rgb(125,126,125) 0%,rgb(0,0,0) 90%);
+	border-width: 2px;
+	border-radius: 6px;
+ }
+
+
+#CalcBtn
+{
+	box-shadow: 1px 1px 1px 0px #999;
+	color: white;
+	width: 200px;
+	height: 35px;
+	margin: 0px 50px 10px 10px;
+	background: -webkit-linear-gradient(top, rgb(125,126,125) 0%,rgb(0,0,0) 90%);
+	border-width: 2px;
+	border-radius: 6px;
+}
+
+#addCalcBtn
+{
+	box-shadow: 1px 1px 1px 0px #999;
+	color: white;
+	width: 200px;
+	height: 35px;
+	background: -webkit-linear-gradient(top, rgb(125,126,125) 0%,rgb(0,0,0) 90%);
+	border-width: 2px;
+	border-radius: 6px;
+	margin-left: 550px;
+}
+
+#profile
+{
+	display: none;
+	text-align: middle;
+}
+
+#profile #p1
+{
+	text-shadow: -2px 2px 2px #999; 
+	font-size: 30px;
+}
+
+#profile 
+{
+	font-size: 20px;
+}
+
+#qoute
+{
+	font-size: 20px;
+	font-style: italic;
+	font-family: "Times New Roman";
+}
+
+#img
+{
+	width : 350; 
+	height : 250;
+	margin-left: 300px;
+	border-style: outset;
+}
+
+#calculator
+{
+	display: none;
+}
+
+
+.numbers
+{
+	box-shadow: 1px 1px 1px 0px #999;
+	color: white;
+	width: 50px;
+	height: 35px;
+	margin: 0px 0px 0px 10px;
+	background: -webkit-linear-gradient(top, rgb(125,126,125) 0%,rgb(0,0,0) 90%);
+	border-width: 2px;
+	border-radius: 6px;
+}	
+
+.box
+{
+	background-color:#3d4543;
+	height:260px;
+	width:250px;
+	border-radius:10px;
+	margin-right: 100px;
+	position:relative;
+ 	left: 500px;
+ 	padding-right: 10px;
+ 	padding-bottom: 10px;
+ 	margin: middle;
+}
+
+.screen
+{
+	background-color:#222;  
+	width: 200px;
+	height: 35px;
+	margin-right: 25px;
+	color: white;
+	font-style: bold;
+}
+ 
+
+.table
+{
+	height:220px;
+	width:200px;
+ 	left: 500px;
+ 	padding-right: 10px;
+ 	padding-bottom: 5px;
+ 	margin: middle;
+ }
